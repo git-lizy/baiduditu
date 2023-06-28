@@ -1,0 +1,1 @@
+export const BaseUrl = 'https://tftb.sczwfw.gov.cn:8085'
